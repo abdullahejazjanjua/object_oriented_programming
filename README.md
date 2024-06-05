@@ -4,7 +4,7 @@ This project implements a clustering technique using an Object-Oriented Programm
 
 ### Project Members
 
-* Muhammad Ahmad Amjad (2023361)
+* Muhammad Ahmad Amjad (2023361)  ([GitHub](https://github.com/ahmadamjadd))  
 * Abdullah Ejaz Janjua (2023038)
 
 ### Project Overview
