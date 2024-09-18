@@ -39,11 +39,11 @@ The project consists of three main tasks:
 
 * **Task 1:** Collaborative effort between both team members.
     * Ahmad Amjad implemented `Bitmap_Image_Generator` and `green_shade`.
-    * Abdullah Ejaz Janjua implemented Pearson's correlation coefficient calculation.
+    * I implemented Pearson's correlation coefficient calculation.
     * Both worked on data reading and debugging file reading issues.
 * **Task 2:**
     * Ahmad Amjad implemented signature value calculation (`Find_Signature_Values`).
-    * Abdullah Ejaz Janjua implemented data matrix permutation (`shuffle_matrix`).
+    * I implemented data matrix permutation (`shuffle_matrix`).
     * Both collaborated on the sorting algorithm (`sort_permutated_matrix`).
 * **UI:** Not included in this code, but teamwork was used for design and development.
 
