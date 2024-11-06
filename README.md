@@ -103,5 +103,5 @@ The project consists of the following main tasks:
 - **Task 2 Functions**: Handles matrix permutation, signature value computation for clustering, and matrix sorting based on similarity.
 
 **Collaborators**  
-- Muhammad Ahmad Amjad (GitHub: [ahmadamjadd](https://github.com/ahmadamjadd))
+- [Muhammad Ahmad Amjad](https://github.com/ahmadamjadd)
 - Abdullah Ejaz Janjua
