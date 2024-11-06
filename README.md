@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 
 This repository contains assignments and a final semester project for the Object-Oriented Programming course (CS112), provided by [Dr. Zahid Halim](https://scholar.google.com.sg/citations?user=2TQuYtwAAAAJ&hl=en) as part of my studies at [GIKI](https://giki.edu.pk/).
 
