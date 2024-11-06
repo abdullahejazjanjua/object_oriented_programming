@@ -1,7 +1,19 @@
 # introduction
 
-This repository contains assignments and a final semester project
-for the Object-Oriented Programming course (CS221), provided by [Dr. Zahid Halim](https://scholar.google.com.sg/citations?user=2TQuYtwAAAAJ&hl=en) as part of my studies at [GIKI](giki.edu.pk/).
+This repository contains assignments and a final semester project for the Object-Oriented Programming course (CS112), provided by [Dr. Zahid Halim](https://scholar.google.com.sg/citations?user=2TQuYtwAAAAJ&hl=en) as part of my studies at [GIKI](https://giki.edu.pk/).
+
+---
+
+## Table of Contents
+1. [Assignment 1: Console-Based Car Racing Game](#assignment-1-console-based-car-racing-game)
+2. [Assignment 2: Strategic Five Game](#assignment-2-strategic-five-game)
+3. [Assignment 3: Terminal Animation – Spinning Doughnut](#assignment-3-terminal-animation--spinning-doughnut)
+4. [Assignment 4: Car and Engine Composition](#assignment-4-car-and-engine-composition)
+5. [Assignment 5: Custom String Class with Operator Overloading](#assignment-5-custom-string-class-with-operator-overloading)
+6. [Assignment 6: Sparse Polynomial Addition](#assignment-6-sparse-polynomial-addition)
+7. [Semester Project: Clustering Using OOP in C++/CLI](#semester-project-clustering-using-oop-in-ccli)
+
+---
 
 ### Assignment 1: Console-Based Car Racing Game
 
@@ -85,7 +97,6 @@ The project consists of the following main tasks:
 2. **Permutation and Signature Technique**  
    - Permutes the data matrix and applies a signature technique to identify clusters.
    - Visualizes the sorted and rearranged matrix based on clustering results.
-
 
 **Key Functionalities**  
 - **Task 1 Functions**: Includes Pearson correlation calculation, matrix discretization, and bitmap image generation with green shading to visualize correlation intensity.
